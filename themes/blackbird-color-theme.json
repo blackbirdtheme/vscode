@@ -156,8 +156,8 @@
         "constant",
         "meta.return-type",
         "support.type.primitive",
-        "string.template",
-        "meta.property-value.css"
+        "meta.property-value.css",
+        "meta.template.expression"
       ],
       "settings": {
         "foreground": "#ff9900"
@@ -172,16 +172,8 @@
       }
     },
     {
-      "name": "White Italic",
-      "scope": ["comment.block.documentation"],
-      "settings": {
-        "foreground": "#fdf7cd",
-        "fontStyle": "italic"
-      }
-    },
-    {
       "name": "Teal",
-      "scope": ["storage", "keyword.control.export"],
+      "scope": ["storage", "keyword.control.export", "support.class.math"],
       "settings": {
         "foreground": "#00ecd8",
         "fontStyle": "italic"

@@ -93,7 +93,9 @@
     "statusBar.debuggingForeground": "#000000",
     "debugToolBar.background": "#000000",
     "debugToolBar.border": "#222029",
-    "settings.textInputBorder": "#222029"
+    "settings.textInputBorder": "#222029",
+    "textLink.activeForeground": "#e92741",
+    "textLink.foreground": "#e92741"
   },
   "tokenColors": [
     {

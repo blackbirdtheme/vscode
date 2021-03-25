@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.0.3
+
+- Add links colors
+- Fix border focus
+
 ## 1.0.2
 
 - Fix string templates

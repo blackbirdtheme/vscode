@@ -3,16 +3,16 @@
   "displayName": "blackbird",
   "description": "🏴 A sharp color theme for visual studio code",
   "license": "MPL 2.0",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.46.0"
   },
   "categories": [
     "Themes"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Matt-Gleich/blackbird.git"
+  "repository": "https://github.com/Matt-Gleich/blackbird",
+  "bugs": {
+    "url": "https://github.com/Matt-Gleich/blackbird/issues"
   },
   "keywords": [
     "black",

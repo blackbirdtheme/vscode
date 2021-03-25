@@ -1,21 +1,21 @@
 {
-    "name": "blackbird",
-    "displayName": "blackbird",
-    "description": "🏴 A punchy color theme for visual studio code",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "blackbird",
-                "uiTheme": "vs-dark",
-                "path": "./themes/blackbird-color-theme.json"
-            }
-        ]
-    }
+  "name": "blackbird",
+  "displayName": "blackbird",
+  "description": "🏴 A punchy color theme for visual studio code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "blackbird",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blackbird-color-theme.json"
+      }
+    ]
+  }
 }

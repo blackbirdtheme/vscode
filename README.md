@@ -1,16 +1,7 @@
-# README
-
-## This is the README for your extension "blackbird"
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+<div align="center">
+  <img alt="logo" src="./images/title.png" height="400px">
+  <h1>🏴&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; blackbird &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏴</h1>
+  <i>A sharp color theme for visual studio code</i>
+  <img alt="example1" src="./images/example1.jpg">
+  <img alt="example2" src="./images/example2.jpg">
+</div>

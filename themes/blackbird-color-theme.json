@@ -91,7 +91,8 @@
     "editor.selectionBackground": "#222029",
     "statusBar.debuggingForeground": "#000000",
     "debugToolBar.background": "#000000",
-    "debugToolBar.border": "#222029"
+    "debugToolBar.border": "#222029",
+    "settings.textInputBorder": "#222029"
   },
   "tokenColors": [
     {

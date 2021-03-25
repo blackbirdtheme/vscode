@@ -1,7 +1,8 @@
 {
-  "name": "blackbird",
+  "name": "theme-blackbird",
   "displayName": "blackbird",
-  "description": "🏴 A punchy color theme for visual studio code",
+  "description": "🏴 A sharp color theme for visual studio code",
+  "license": "MPL 2.0",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.46.0"
@@ -9,6 +10,26 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matt-Gleich/.git"
+  },
+  "keywords": [
+    "black",
+    "dark",
+    "bird",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "images/logo.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "maintainers": [
+    "Matthew Gleich <email@mattglei.ch>"
+  ],
+  "publisher": "Matt-Gleich",
   "contributes": {
     "themes": [
       {

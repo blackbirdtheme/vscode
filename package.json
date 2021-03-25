@@ -3,7 +3,7 @@
   "displayName": "blackbird",
   "description": "🏴 A sharp color theme for visual studio code",
   "license": "MPL 2.0",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.46.0"
   },

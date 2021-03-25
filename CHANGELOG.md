@@ -1,8 +1,13 @@
 # Change Log
 
-## 1.0.0
+## 1.0.2
 
-- Fix repo url
+- Fix string templates
+- Fix LaTeX math
+
+## 1.0.1
+
+- Fix repo URL
 - Make vsix smaller
 
 ## 0.0.1

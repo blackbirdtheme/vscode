@@ -53,6 +53,7 @@
     "contrastBorder": "#222029",
     "input.background": "#000000",
     "input.border": "#222029",
+
     "inputOption.activeBorder": "#3EC841",
     "welcomePage.background": "#000000",
     "editorGutter.addedBackground": "#3EC841",
@@ -71,7 +72,7 @@
     "editorCursor.foreground": "#fdf7cd",
     "editorLineNumber.foreground": "#343c50",
     "editorLineNumber.activeForeground": "#fdf7cd",
-    "focusBorder": "#000000",
+    "focusBorder": "#222029",
     "checkbox.background": "#000000",
     "dropdown.background": "#000000",
     "dropdown.border": "#222029",

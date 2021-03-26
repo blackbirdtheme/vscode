@@ -155,21 +155,14 @@
     },
     {
       "name": "Orange",
-      "scope": ["meta.template.expression"],
-      "settings": {
-        "foreground": "#ff9900"
-      }
-    },
-    {
-      "name": "Pink",
       "scope": [
-        "constant",
+        "meta.template.expression",
         "meta.return-type",
         "support.type.primitive",
         "meta.property-value.css"
       ],
       "settings": {
-        "foreground": "#ff00ee"
+        "foreground": "#ff9900"
       }
     },
     {
@@ -186,7 +179,8 @@
         "storage",
         "keyword.control.export",
         "support.class.math",
-        "entity.other.attribute-name"
+        "entity.other.attribute-name",
+        "constant"
       ],
       "settings": {
         "foreground": "#00ecd8",

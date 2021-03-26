@@ -2,8 +2,8 @@
   "name": "theme-blackbird",
   "displayName": "blackbird",
   "description": "🏴 A sharp color theme for visual studio code",
-  "license": "MPL 2.0",
-  "version": "1.0.3",
+  "license": "MIT",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.46.0"
   },

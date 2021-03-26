@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.0
+
+- Change constants to pink
+- Fix function calls
+- Fix toml headers
+
 ## 1.0.3
 
 - Add links colors

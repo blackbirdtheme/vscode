@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.2
+
+- Improve image assets
+
 ## 1.1.1
 
 - Remove pink

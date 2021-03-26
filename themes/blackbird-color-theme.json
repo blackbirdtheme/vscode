@@ -147,6 +147,7 @@
       "scope": [
         "entity.name.function",
         "support.function",
+        "meta.function-call.generic",
         "entity.other.attribute-name.pseudo-element.css"
       ],
       "settings": {
@@ -155,15 +156,21 @@
     },
     {
       "name": "Orange",
+      "scope": ["meta.template.expression"],
+      "settings": {
+        "foreground": "#ff9900"
+      }
+    },
+    {
+      "name": "Pink",
       "scope": [
         "constant",
         "meta.return-type",
         "support.type.primitive",
-        "meta.property-value.css",
-        "meta.template.expression"
+        "meta.property-value.css"
       ],
       "settings": {
-        "foreground": "#ff9900"
+        "foreground": "#ff00ee"
       }
     },
     {
@@ -176,7 +183,12 @@
     },
     {
       "name": "Teal",
-      "scope": ["storage", "keyword.control.export", "support.class.math"],
+      "scope": [
+        "storage",
+        "keyword.control.export",
+        "support.class.math",
+        "entity.other.attribute-name"
+      ],
       "settings": {
         "foreground": "#00ecd8",
         "fontStyle": "italic"

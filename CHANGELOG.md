@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.1.1
+
+- Remove pink
+- Constants are now teal
+
 ## 1.1.0
 
 - Change constants to pink

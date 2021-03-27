@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.1.3
+## 1.1.3 & 1.1.4
 
 - Possibly fix overview link
 

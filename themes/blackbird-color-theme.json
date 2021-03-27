@@ -112,7 +112,11 @@
     },
     {
       "name": "Red",
-      "scope": ["entity.name.tag", "markup.heading"],
+      "scope": [
+        "entity.name.tag",
+        "markup.heading",
+        "support.type.property-name"
+      ],
       "settings": {
         "foreground": "#e92741"
       }

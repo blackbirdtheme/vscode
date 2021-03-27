@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.3
+
+- Possibly fix overview link
+
 ## 1.1.2
 
 - Improve image assets

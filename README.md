@@ -1,4 +1,4 @@
-![image](./images/title.svg)
+![image](./images/title.png)
 
 ### _A sharp color theme for visual studio code_
 

@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.1.9
+
+- Json keys are now red
+- Red values are now all bold
+
 ## 1.1.8
 
 - Improve foreground colors

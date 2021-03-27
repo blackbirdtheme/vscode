@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.1.8
+
+- Improve foreground colors
+- Improve README
+
 ## 1.1.3 - 1.1.7
 
 - Fix overview link

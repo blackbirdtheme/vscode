@@ -118,7 +118,8 @@
         "support.type.property-name"
       ],
       "settings": {
-        "foreground": "#e92741"
+        "foreground": "#e92741",
+        "fontStyle": "bold"
       }
     },
     {

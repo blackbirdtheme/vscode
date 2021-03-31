@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.0.0
+
+- Improve token colors for some features
+
 ## 1.1.9
 
 - Json keys are now red

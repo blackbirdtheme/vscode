@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.0.1
+
+- Add this keyword under red italic
+
 ## 2.0.0
 
 - Improve token colors for some features

@@ -107,7 +107,8 @@
         "meta.selector.css",
         "keyword.control.at-rule.media.css",
         "storage.modifier",
-        "keyword.control.export"
+        "keyword.control.export",
+        "variable.language.this"
       ],
       "settings": {
         "foreground": "#e92741",

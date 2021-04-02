@@ -3,6 +3,7 @@
 ## 2.1.2
 
 - Improve drag and drop, snippets, and title bar colors
+- Improve terminal and border colors
 
 ## 2.0.1
 

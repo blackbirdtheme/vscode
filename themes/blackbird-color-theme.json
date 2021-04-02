@@ -9,9 +9,9 @@
     "sideBar.background": "#000000",
     "titleBar.activeBackground": "#000000",
     "titleBar.inactiveBackground": "#000000",
-    "titleBar.border": "#000000",
+    "titleBar.border": "#222029",
     "sideBarTitle.foreground": "#3EC841",
-    "tab.inactiveBackground": "#070707",
+    "tab.inactiveBackground": "#000000",
     "tab.activeForeground": "#fdf7cd",
     "tab.inactiveForeground": "#fdf7cd",
     "statusBar.foreground": "#fdf7cd",
@@ -97,7 +97,12 @@
     "textLink.foreground": "#e92741",
     "debugIcon.pauseForeground": "#418EDD",
     "debugIcon.restartForeground": "#3EC841",
-    "debugIcon.stopForeground": "#e92741"
+    "debugIcon.stopForeground": "#e92741",
+    "list.dropBackground": "#222029",
+    "editorGroup.dropBackground": "#e92741",
+    "tree.indentGuidesStroke": "#fdf7cd",
+    "editor.snippetTabstopHighlightBackground": "#000000",
+    "editor.snippetTabstopHighlightBorder": "#222029"
   },
   "tokenColors": [
     {

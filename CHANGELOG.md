@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.1.2
+
+- Improve drag and drop, snippets, and title bar colors
+
 ## 2.0.1
 
 - Add this keyword under red italic

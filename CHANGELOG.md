@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.1.5
+
+- Improve LaTeX colors
+
 ## 2.1.4
 
 - Add minimap, terminal and indentation guide colors (#)

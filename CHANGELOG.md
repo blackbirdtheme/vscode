@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.1.3
+
+- Have all types be orange
+
 ## 2.1.2
 
 - Improve drag and drop, snippets, and title bar colors

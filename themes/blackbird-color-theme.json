@@ -187,7 +187,9 @@
         "keyword.operator",
         "meta.property-value.css",
         "keyword.other.special-method",
-        "keyword.key"
+        "keyword.key",
+        "constant.other.math.tex",
+        "constant.character.math.tex"
       ],
       "settings": {
         "foreground": "#e92741",
@@ -204,9 +206,10 @@
     },
     {
       "name": "Yellow",
-      "scope": ["string"],
+      "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#E1DB3F"
+        "foreground": "#E1DB3F",
+        "fontStyle": ""
       }
     },
     {
@@ -215,7 +218,10 @@
         "constant.numeric",
         "support.class.math",
         "constant.character.math",
-        "entity.other.keyframe-offset.percentage.css"
+        "entity.other.keyframe-offset.percentage.css",
+        "punctuation.math.begin.bracket.curly",
+        "punctuation.math.end.bracket.curly",
+        "punctuation.math.operator.latex"
       ],
       "settings": {
         "foreground": "#418EDD",
@@ -238,10 +244,12 @@
         "meta.function-call.generic",
         "entity.other.attribute-name.pseudo-element.css",
         "support.class",
-        "entity.other.attribute-name.table.toml"
+        "entity.other.attribute-name.table.toml",
+        "constant.other.general.math.tex"
       ],
       "settings": {
-        "foreground": "#3EC841"
+        "foreground": "#3EC841",
+        "fontStyle": ""
       }
     },
     {
@@ -279,13 +287,21 @@
         "entity.other.attribute-name.json",
         "constant",
         "keyword.control.default",
-        "entity.other.attribute-name.pseudo-element.css",
         "variable.parameter.function.latex",
+        "entity.other.attribute-name.pseudo-element.css",
         "meta.separator"
       ],
       "settings": {
         "foreground": "#00ecd8",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Teal",
+      "scope": ["constant.character.escape"],
+      "settings": {
+        "foreground": "#00ecd8",
+        "fontStyle": ""
       }
     }
   ]

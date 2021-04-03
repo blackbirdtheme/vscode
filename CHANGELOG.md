@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.1.4
+
+- Add minimap, terminal and indentation guide colors (#)
+
 ## 2.1.3
 
 - Have all types be orange

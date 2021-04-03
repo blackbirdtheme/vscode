@@ -125,7 +125,8 @@
     "panelSection.border": "#222029",
     "terminal.border": "#222029",
     "editorGroup.border": "#222029",
-    "dropdown.foreground": "#fdf7cd"
+    "dropdown.foreground": "#fdf7cd",
+    "rust_analyzer.inlayHints.foreground": "#5597a3"
   },
   "tokenColors": [
     {
@@ -244,7 +245,8 @@
       "scope": [
         "meta.template.expression",
         "meta.return-type",
-        "support.type.primitive"
+        "support.type.primitive",
+        "entity.name.type"
       ],
       "settings": {
         "foreground": "#ff9900"

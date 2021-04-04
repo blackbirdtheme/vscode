@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.1.6
+
+- Improve match and word highlight colors
+
 ## 2.1.5
 
 - Improve LaTeX colors

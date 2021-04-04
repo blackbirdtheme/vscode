@@ -138,7 +138,12 @@
     "terminal.border": "#222029",
     "editorGroup.border": "#222029",
     "dropdown.foreground": "#fdf7cd",
-    "rust_analyzer.inlayHints.foreground": "#5597a3"
+    "rust_analyzer.inlayHints.foreground": "#5597a3",
+    "editor.findMatchBackground": "#222029",
+    "editor.findMatchHighlightBackground": "#222029",
+    "editor.selectionHighlightBackground": "#222029",
+    "editor.wordHighlightBackground": "#222029",
+    "editor.wordHighlightStrongBackground": "#222029"
   },
   "tokenColors": [
     {
@@ -245,7 +250,8 @@
         "entity.other.attribute-name.pseudo-element.css",
         "support.class",
         "entity.other.attribute-name.table.toml",
-        "constant.other.general.math.tex"
+        "constant.other.general.math.tex",
+        "entity.other.attribute-name.class"
       ],
       "settings": {
         "foreground": "#3EC841",

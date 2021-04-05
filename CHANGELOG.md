@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.1.7
+
+- Make all caps constant names white
+
 ## 2.1.6
 
 - Improve match and word highlight colors
@@ -10,7 +14,7 @@
 
 ## 2.1.4
 
-- Add minimap, terminal and indentation guide colors (#)
+- Add minimap, terminal and indentation guide colors ([#12](https://github.com/Matt-Gleich/blackbird/pull/12))
 
 ## 2.1.3
 

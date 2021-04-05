@@ -166,7 +166,8 @@
       "scope": [
         "entity.other.attribute-name",
         "support.type.property-name.css",
-        "support.class.latex"
+        "support.class.latex",
+        "constant.other.caps"
       ],
       "settings": {
         "foreground": "#fdf7cd",

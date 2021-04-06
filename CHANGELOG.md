@@ -1,5 +1,10 @@
 # Change Log
 
+## 2.1.8
+
+- Fix drop background
+- Fix zen mode background
+
 ## 2.1.7
 
 - Make all caps constant names white

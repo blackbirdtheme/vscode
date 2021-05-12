@@ -3,3 +3,7 @@
 A sharp color theme for visual studio code
 
 ![example](./images/example.jpg)
+
+## 🌃 Other Implementations
+
+- [Vim Theme](https://github.com/Matt-Gleich/blackbird.vim)

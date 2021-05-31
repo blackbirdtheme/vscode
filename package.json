@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Matt-Gleich/blackbird.git"
+    "url": "https://github.com/blackbirdtheme/blackbird.git"
   },
   "bugs": {
-    "url": "https://github.com/Matt-Gleich/blackbird/issues"
+    "url": "https://github.com/blackbirdtheme/blackbird/issues"
   },
-  "homepage": "https://github.com/Matt-Gleich/blackbird/blob/master/README.md",
+  "homepage": "https://github.com/blackbirdtheme/blackbird/blob/master/README.md",
   "keywords": [
     "black",
     "dark",

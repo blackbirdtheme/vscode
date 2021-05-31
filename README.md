@@ -6,4 +6,5 @@ A sharp color theme for visual studio code
 
 ## 🌃 Other Implementations
 
-- [Vim Theme](https://github.com/blackbirdtheme/blackbird.vim)
+- [Vim Theme](https://github.com/blackbirdtheme/vim)
+- [Terminals](https://github.com/blackbirdtheme/terminals)

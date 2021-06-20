@@ -3,22 +3,22 @@
   "displayName": "blackbird",
   "description": "🏴 A sharp color theme for visual studio code",
   "license": "MIT",
-  "version": "2.1.9",
+  "version": "2.1.10",
   "engines": {
     "vscode": "^1.46.0"
   },
-  "author": "Matthew Gleich",
+  "author": "Matt Gleich",
   "categories": [
     "Themes"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/blackbirdtheme/blackbird.git"
+    "url": "https://github.com/blackbirdtheme/vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/blackbirdtheme/blackbird/issues"
+    "url": "https://github.com/blackbirdtheme/vscode/issues"
   },
-  "homepage": "https://github.com/blackbirdtheme/blackbird/blob/master/README.md",
+  "homepage": "https://github.com/blackbirdtheme/vscode/blob/master/README.md",
   "keywords": [
     "black",
     "dark",
@@ -26,9 +26,8 @@
     "theme",
     "color-theme"
   ],
-  "icon": "images/logo.png",
   "maintainers": [
-    "Matthew Gleich <email@mattglei.ch>"
+    "Matt Gleich <email@mattglei.ch>"
   ],
   "publisher": "MattGleich",
   "contributes": {

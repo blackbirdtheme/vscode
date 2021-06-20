@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.1.10
+
+- Make snippet background clear
+
 ## 2.1.9
 
 - Move source code to central GitHub organization

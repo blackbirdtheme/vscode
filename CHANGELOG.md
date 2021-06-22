@@ -1,5 +1,10 @@
 # Change Log
 
+## 3.0.1
+
+- Change active tab color to blue
+- Make selection colors clearer
+
 ## 3.0.0
 
 - Change main color to red

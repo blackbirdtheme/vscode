@@ -1,5 +1,10 @@
 # Change Log
 
+## 3.0.0
+
+- Change main color to red
+- Fix icon path
+
 ## 2.1.10
 
 - Make snippet background clear

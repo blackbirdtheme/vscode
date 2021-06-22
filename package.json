@@ -3,7 +3,7 @@
   "displayName": "blackbird",
   "description": "🏴 A sharp color theme for visual studio code",
   "license": "MIT",
-  "version": "2.1.10",
+  "version": "3.0.0",
   "engines": {
     "vscode": "^1.46.0"
   },
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/blackbirdtheme/vscode/blob/master/README.md",
   "keywords": [
+    "blackbird",
     "black",
     "dark",
     "bird",
@@ -29,6 +30,7 @@
   "maintainers": [
     "Matt Gleich <email@mattglei.ch>"
   ],
+  "icon": "./extension/images/logo.png",
   "publisher": "MattGleich",
   "contributes": {
     "themes": [

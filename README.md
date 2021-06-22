@@ -2,7 +2,7 @@
 
 A sharp color theme for visual studio code
 
-![example](./images/example.jpg)
+![example](./images/example.png)
 
 ## 🌃 Other Implementations
 

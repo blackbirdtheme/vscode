@@ -30,14 +30,14 @@
   "maintainers": [
     "Matt Gleich <email@mattglei.ch>"
   ],
-  "icon": "./extension/images/logo.png",
+  "icon": "images/logo.png",
   "publisher": "MattGleich",
   "contributes": {
     "themes": [
       {
         "label": "blackbird",
         "uiTheme": "vs-dark",
-        "path": "./themes/blackbird-color-theme.json"
+        "path": "themes/blackbird-color-theme.json"
       }
     ]
   }

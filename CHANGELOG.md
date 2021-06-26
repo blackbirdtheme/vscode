@@ -1,5 +1,10 @@
 # Change Log
 
+## 3.0.2
+
+- Improve background selection colors again
+- Have keys and TOML features match with vim implementation
+
 ## 3.0.1
 
 - Change active tab color to blue

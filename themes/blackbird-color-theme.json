@@ -113,7 +113,7 @@
     "editor.snippetTabstopHighlightBackground": "#00000000",
     "editor.snippetTabstopHighlightBorder": "#00000000",
     "terminalCursor.foreground": "#ffffff",
-    "terminal.selectionBackground": "#131218",
+    "terminal.selectionBackground": "#343c50",
     "terminal.foreground": "#fdf7cd",
     "terminal.ansiBrightGreen": "#3EC841",
     "terminal.ansiBrightCyan": "#00ecd8",
@@ -140,10 +140,10 @@
     "dropdown.foreground": "#fdf7cd",
     "rust_analyzer.inlayHints.foreground": "#5597a3",
     "editor.findMatchBackground": "#222029",
-    "editor.findMatchHighlightBackground": "#13131a",
-    "editor.selectionHighlightBackground": "#13131a",
-    "editor.wordHighlightBackground": "#13131a",
-    "editor.wordHighlightStrongBackground": "#13131a",
+    "editor.findMatchHighlightBackground": "#282530",
+    "editor.selectionHighlightBackground": "#282530",
+    "editor.wordHighlightBackground": "#282530",
+    "editor.wordHighlightStrongBackground": "#282530",
     "errorForeground": "#e92741"
   },
   "tokenColors": [

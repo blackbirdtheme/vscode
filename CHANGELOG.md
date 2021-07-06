@@ -1,5 +1,12 @@
 # Change Log
 
+## 4.0.0
+
+- Update colors to match with vim theme
+- Make highlight background more visible
+- Add link to new website
+- Prep for v1.0.0 release
+
 ## 3.0.2
 
 - Improve background selection colors again

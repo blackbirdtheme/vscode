@@ -113,7 +113,7 @@
     "editor.snippetTabstopHighlightBackground": "#00000000",
     "editor.snippetTabstopHighlightBorder": "#00000000",
     "terminalCursor.foreground": "#ffffff",
-    "terminal.selectionBackground": "#0f0f11",
+    "terminal.selectionBackground": "#131218",
     "terminal.foreground": "#fdf7cd",
     "terminal.ansiBrightGreen": "#3EC841",
     "terminal.ansiBrightCyan": "#00ecd8",
@@ -139,11 +139,12 @@
     "editorGroup.border": "#13131a",
     "dropdown.foreground": "#fdf7cd",
     "rust_analyzer.inlayHints.foreground": "#5597a3",
-    "editor.findMatchBackground": "#13131a",
+    "editor.findMatchBackground": "#222029",
     "editor.findMatchHighlightBackground": "#13131a",
     "editor.selectionHighlightBackground": "#13131a",
     "editor.wordHighlightBackground": "#13131a",
-    "editor.wordHighlightStrongBackground": "#13131a"
+    "editor.wordHighlightStrongBackground": "#13131a",
+    "errorForeground": "#e92741"
   },
   "tokenColors": [
     {
@@ -168,7 +169,10 @@
         "support.type.property-name.css",
         "support.class.latex",
         "keyword.key",
-        "constant.other.caps"
+        "constant.other.caps",
+        "punctuation.section.function",
+        "punctuation.separator.list.comma",
+        "keyword.operator.namespace.rust"
       ],
       "settings": {
         "foreground": "#fdf7cd",
@@ -181,7 +185,6 @@
         "entity.name.tag",
         "markup.heading",
         "support.type.property-name",
-        "variable.other.property",
         "entity.other.attribute-name.table.toml"
       ],
       "settings": {
@@ -193,21 +196,14 @@
       "name": "Red",
       "scope": [
         "keyword.operator",
-        "meta.property-value.css",
         "keyword.other.special-method",
         "constant.other.math.tex",
-        "constant.character.math.tex"
+        "support.class",
+        "constant.character.math.tex",
+        "punctuation.definition.table.toml"
       ],
       "settings": {
         "foreground": "#e92741",
-        "fontStyle": ""
-      }
-    },
-    {
-      "name": "Light Gray",
-      "scope": ["variable.other.property", "meta.attribute"],
-      "settings": {
-        "foreground": "#5597a3",
         "fontStyle": ""
       }
     },
@@ -228,7 +224,9 @@
         "entity.other.keyframe-offset.percentage.css",
         "punctuation.math.begin.bracket.curly",
         "punctuation.math.end.bracket.curly",
-        "punctuation.math.operator.latex"
+        "punctuation.math.operator.latex",
+        "constant.numeric.css",
+        "keyword.other.unit"
       ],
       "settings": {
         "foreground": "#418EDD",
@@ -237,7 +235,11 @@
     },
     {
       "name": "Blue Italic",
-      "scope": ["support.class.math", "constant.character.math"],
+      "scope": [
+        "support.class.math",
+        "constant.character.math",
+        "support.class.component"
+      ],
       "settings": {
         "foreground": "#418EDD",
         "fontStyle": "italic"
@@ -250,7 +252,6 @@
         "support.function",
         "meta.function-call.generic",
         "entity.other.attribute-name.pseudo-element.css",
-        "support.class",
         "constant.other.general.math.tex",
         "entity.other.attribute-name.class"
       ],
@@ -265,15 +266,21 @@
         "meta.template.expression",
         "meta.return-type",
         "support.type.primitive",
-        "entity.name.type"
+        "entity.name.type",
+        "variable.argument.css"
       ],
       "settings": {
-        "foreground": "#ff9900"
+        "foreground": "#ff9900",
+        "fontStyle": ""
       }
     },
     {
       "name": "Gray",
-      "scope": ["comment"],
+      "scope": [
+        "comment",
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end"
+      ],
       "settings": {
         "foreground": "#343c50",
         "fontStyle": ""
@@ -288,7 +295,8 @@
         "keyword.control.default",
         "variable.parameter.function.latex",
         "entity.other.attribute-name.pseudo-element.css",
-        "meta.separator"
+        "meta.separator",
+        "support.constant.property-value.css"
       ],
       "settings": {
         "foreground": "#00ecd8",

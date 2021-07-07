@@ -1,5 +1,10 @@
 # Change Log
 
+## 4.1.0
+
+- Make comments brighter so they are easier to read
+- Make selection background brighter so it is easier to see
+
 ## 4.0.0
 
 - Update colors to match with vim theme

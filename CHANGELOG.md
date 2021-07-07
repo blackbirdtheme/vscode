@@ -1,5 +1,9 @@
 # Change Log
 
+## 4.1.1
+
+- Add more icon colors
+
 ## 4.1.0
 
 - Make comments brighter so they are easier to read

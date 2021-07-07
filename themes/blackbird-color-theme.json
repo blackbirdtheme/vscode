@@ -144,7 +144,18 @@
     "editor.selectionHighlightBackground": "#3c3847",
     "editor.wordHighlightBackground": "#222029",
     "editor.wordHighlightStrongBackground": "#3c3847",
-    "errorForeground": "#e92741"
+    "errorForeground": "#e92741",
+    "symbolIcon.functionForeground": "#3EC841",
+    "symbolIcon.booleanForeground": "#00ecd8",
+    "symbolIcon.arrayForeground": "#418EDD",
+    "symbolIcon.constantForeground": "#418EDD",
+    "symbolIcon.variableForeground": "#418EDD",
+    "symbolIcon.classForeground": "#e92741",
+    "symbolIcon.structForeground": "#e92741",
+    "symbolIcon.fieldForeground": "#418EDD",
+    "testing.iconPassed": "#3EC841",
+    "testing.iconFailed": "#e92741",
+    "debugIcon.startForeground": "#3EC841"
   },
   "tokenColors": [
     {

@@ -211,7 +211,8 @@
         "constant.other.math.tex",
         "support.class",
         "constant.character.math.tex",
-        "punctuation.definition.table.toml"
+        "punctuation.definition.table.toml",
+        "punctuation.separator.key-value.html"
       ],
       "settings": {
         "foreground": "#e92741",
@@ -290,7 +291,8 @@
       "scope": [
         "comment",
         "punctuation.definition.tag.begin",
-        "punctuation.definition.tag.end"
+        "punctuation.definition.tag.end",
+        "meta.tag.block.any.html"
       ],
       "settings": {
         "foreground": "#5a637e",

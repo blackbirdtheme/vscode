@@ -1,5 +1,13 @@
 # Change Log
 
+## 4.2.0
+
+- Set markdown quote preview border color to blue
+- Show outline for inactive focus list items
+- Make selection highlight background dimmer (hover)
+- Change active title bar to blue
+- Make border colors brighter
+
 ## 4.1.2
 
 - Add some more symbol icon colors

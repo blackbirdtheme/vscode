@@ -18,7 +18,7 @@
     "tab.activeBorderTop": "#418EDD",
     "tab.activeModifiedBorder": "#E1DB3F",
     "tab.activeBackground": "#000000",
-    "titleBar.activeForeground": "#e92741",
+    "titleBar.activeForeground": "#418EDD",
     "editorGroupHeader.tabsBackground": "#000000",
     "button.background": "#000000",
     "button.foreground": "#e92741",

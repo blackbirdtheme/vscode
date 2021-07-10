@@ -162,7 +162,8 @@
     "symbolIcon.fieldForeground": "#418EDD",
     "testing.iconPassed": "#3EC841",
     "testing.iconFailed": "#e92741",
-    "debugIcon.startForeground": "#3EC841"
+    "debugIcon.startForeground": "#3EC841",
+    "textBlockQuote.border": "#418EDD"
   },
   "tokenColors": [
     {

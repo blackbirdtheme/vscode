@@ -141,7 +141,7 @@
     "rust_analyzer.inlayHints.foreground": "#5597a3",
     "editor.findMatchBackground": "#222029",
     "editor.findMatchHighlightBackground": "#3c3847",
-    "editor.selectionHighlightBackground": "#3c3847",
+    "editor.selectionHighlightBackground": "#222029",
     "editor.wordHighlightBackground": "#222029",
     "editor.wordHighlightStrongBackground": "#3c3847",
     "errorForeground": "#e92741",

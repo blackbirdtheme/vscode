@@ -1,5 +1,9 @@
 # Change Log
 
+## 4.1.2
+
+- Add some more symbol icon colors
+
 ## 4.1.1
 
 - Add more icon colors

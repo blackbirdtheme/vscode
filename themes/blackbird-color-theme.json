@@ -297,8 +297,7 @@
       "scope": [
         "comment",
         "punctuation.definition.tag.begin",
-        "punctuation.definition.tag.end",
-        "meta.tag.block.any.html"
+        "punctuation.definition.tag.end"
       ],
       "settings": {
         "foreground": "#5a637e",

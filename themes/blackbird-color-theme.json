@@ -164,7 +164,8 @@
     "testing.iconFailed": "#e92741",
     "debugIcon.startForeground": "#3EC841",
     "textBlockQuote.border": "#418EDD",
-    "debugIcon.breakpointForeground": "#e92741"
+    "debugIcon.breakpointForeground": "#e92741",
+    "editor.snippetFinalTabstopHighlightBorder": "#e92741"
   },
   "tokenColors": [
     {

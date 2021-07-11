@@ -163,7 +163,8 @@
     "testing.iconPassed": "#3EC841",
     "testing.iconFailed": "#e92741",
     "debugIcon.startForeground": "#3EC841",
-    "textBlockQuote.border": "#418EDD"
+    "textBlockQuote.border": "#418EDD",
+    "debugIcon.breakpointForeground": "#e92741"
   },
   "tokenColors": [
     {

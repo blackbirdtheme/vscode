@@ -1,5 +1,14 @@
 # Change Log
 
+## 4.2.3
+
+- [Add HTML related syntax scope tokens](https://github.com/blackbirdtheme/vscode/pull/19)
+- Debug breakpoints are now blackbird red
+- Final tabstop for snippet is now red
+- Constant placeholders are now teal regular instead of teal italic
+
+Thank you to [Jason Theiler](https://github.com/jasontheiler) for contributing to this PR!
+
 ## 4.2.0
 
 - Set markdown quote preview border color to blue

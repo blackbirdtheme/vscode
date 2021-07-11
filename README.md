@@ -1,5 +1,10 @@
 <a href="https://blackbird.mattglei.ch" target="_blank"><img src="./images/title.png" width="400"></a>
 
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/MattGleich.theme-blackbird?color=e92741)
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/MattGleich.theme-blackbird?color=e92741)
+![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/MattGleich.theme-blackbird?color=e92741)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/MattGleich.theme-blackbird?color=e92741)
+
 A sharp color theme for visual studio code
 
 ![example](./images/example.png)

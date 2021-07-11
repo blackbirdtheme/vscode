@@ -327,7 +327,7 @@
     },
     {
       "name": "Teal",
-      "scope": ["constant.character.escape"],
+      "scope": ["constant.character.escape", "constant.other.placeholder"],
       "settings": {
         "foreground": "#00ecd8",
         "fontStyle": ""

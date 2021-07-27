@@ -194,7 +194,8 @@
         "constant.other.caps",
         "punctuation.section.function",
         "punctuation.separator.list.comma",
-        "keyword.operator.namespace.rust"
+        "keyword.operator.namespace.rust",
+        "keyword.operator.access.dot"
       ],
       "settings": {
         "foreground": "#fdf7cd",

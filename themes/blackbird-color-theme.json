@@ -49,6 +49,7 @@
     "gitDecoration.modifiedResourceForeground": "#E1DB3F",
     "gitDecoration.untrackedResourceForeground": "#3EC841",
     "gitDecoration.stageModifiedResourceForeground": "#E1DB3F",
+    "gitDecoration.renamedResourceForeground": "#418EDD",
     "list.errorForeground": "#e92741",
     "contrastBorder": "#2c2d3a",
     "input.background": "#000000",

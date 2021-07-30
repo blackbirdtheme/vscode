@@ -1,10 +1,18 @@
 # Change Log
 
+## 4.3.0
+
+- Rename git changes are now blue
+- Terminal black color is brighter
+- `keyword.operator.access.dot` is now blackbird white
+- Added README badges
+- Current tab bar is brighter
+
 ## 4.2.3
 
 - [Add HTML related syntax scope tokens](https://github.com/blackbirdtheme/vscode/pull/19)
 - Debug breakpoints are now blackbird red
-- Final tabstop for snippet is now red
+- Final tab stop for snippet is now red
 - Constant placeholders are now teal regular instead of teal italic
 
 Thank you to [Jason Theiler](https://github.com/jasontheiler) for contributing to this PR!

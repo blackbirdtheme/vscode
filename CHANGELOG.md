@@ -1,5 +1,10 @@
 # Change Log
 
+## 4.3.1
+
+- Active focus line is now blackbird white
+- Brighter borders
+
 ## 4.3.0
 
 - Rename git changes are now blue
@@ -36,13 +41,13 @@ Thank you to [Jason Theiler](https://github.com/jasontheiler) for contributing t
 ## 4.1.0
 
 - Make comments brighter so they are easier to read
-- Make selection background brighter so it is easier to see
+- Make the selection background brighter so it is easier to see
 
 ## 4.0.0
 
 - Update colors to match with vim theme
 - Make highlight background more visible
-- Add link to new website
+- Add a link to the new website
 - Prep for v1.0.0 release
 
 ## 3.0.2
@@ -57,7 +62,7 @@ Thank you to [Jason Theiler](https://github.com/jasontheiler) for contributing t
 
 ## 3.0.0
 
-- Change main color to red
+- Change the main color to red
 - Fix icon path
 
 ## 2.1.10
@@ -108,7 +113,7 @@ Thank you to [Jason Theiler](https://github.com/jasontheiler) for contributing t
 
 ## 1.1.9
 
-- Json keys are now red
+- JSON keys are now red
 - Red values are now all bold
 
 ## 1.1.8

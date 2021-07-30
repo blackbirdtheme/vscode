@@ -94,7 +94,7 @@
     "list.hoverBackground": "#0f0f11",
     "list.activeSelectionBackground": "#0f0f11",
     "list.inactiveSelectionBackground": "#000000",
-    "list.inactiveFocusOutline": "#3c3847",
+    "list.inactiveFocusOutline": "#fdf7cd",
     "settings.modifiedItemIndicator": "#e92741",
     "activityBar.background": "#000000",
     "activityBar.activeBorder": "#e92741",

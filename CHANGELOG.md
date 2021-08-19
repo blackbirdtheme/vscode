@@ -1,5 +1,9 @@
 # Change Log
 
+## 4.3.2
+
+- rust_analyzer hints are now the same color as comments
+
 ## 4.3.1
 
 - Active focus line is now blackbird white

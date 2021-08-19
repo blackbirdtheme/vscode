@@ -140,7 +140,7 @@
     "terminal.border": "#3c3947",
     "editorGroup.border": "#3c3947",
     "dropdown.foreground": "#fdf7cd",
-    "rust_analyzer.inlayHints.foreground": "#5597a3",
+    "rust_analyzer.inlayHints.foreground": "#5a637e",
     "editor.findMatchBackground": "#222029",
     "editor.findMatchHighlightBackground": "#3c3847",
     "editor.selectionHighlightBackground": "#222029",

@@ -35,9 +35,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "blackbird",
+        "label": "🏴 blackbird → midnight",
         "uiTheme": "vs-dark",
-        "path": "themes/blackbird-color-theme.json"
+        "path": "themes/blackbird-midnight-color-theme.json"
+      },
+      {
+        "label": "🏴 blackbird → dusk",
+        "uiTheme": "vs-dark",
+        "path": "themes/blackbird-dusk-color-theme.json"
       }
     ]
   }

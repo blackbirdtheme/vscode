@@ -1,5 +1,13 @@
 # Change Log
 
+## 5.0.0
+
+- New lighter theme called blackbird dusk
+- Operators are now blue
+- Custom diff colors
+- More errors are blackbird red
+- A number of other minor changes were made. Please check the commits to see _exactly_ what was changed.
+
 ## 4.3.2
 
 - rust_analyzer hints are now the same color as comments

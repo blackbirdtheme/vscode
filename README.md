@@ -7,11 +7,17 @@
 
 A sharp color theme for visual studio code
 
-![example](./images/example.png)
+## 🌌 blackbird midnight
+
+![dusk example](./images/example-dusk.png)
+
+## 🌇 blackbird dusk
+
+![midnight example](./images/example-midnight.png)
 
 ## 🚀 Install
 
-1. Go the extensions tab in vscode and search for "blackbird".
+1. Go to the Extensions tab in vscode and search for "blackbird".
 2. Click the install button for the extension from Matt Gleich with the blackbird logo.
 3. Enjoy blackbird!
 

@@ -201,7 +201,8 @@
         "keyword.operator.namespace.rust",
         "punctuation.brackets",
         "punctuation.comma",
-        "fenced_code.block.language"
+        "fenced_code.block.language",
+        "punctuation.definition.attribute.rust"
       ],
       "settings": {
         "foreground": "#fdf7cd",
@@ -224,12 +225,15 @@
     {
       "name": "Red",
       "scope": [
-        "keyword.operator",
+        "keyword.operator.assignment.equal",
+        "punctuation.definition.keyValuePair.toml",
         "keyword.other.special-method",
         "constant.other.math.tex",
         "support.class",
         "constant.character.math.tex",
         "punctuation.definition.table.toml",
+        "entity.other.attribute-name.table.array.toml",
+        "keyword.operator.assignment",
         "punctuation.separator.key-value.html"
       ],
       "settings": {
@@ -248,6 +252,7 @@
     {
       "name": "Blue",
       "scope": [
+        "keyword.operator",
         "constant.numeric",
         "support.class.math",
         "constant.character.math",
@@ -259,7 +264,9 @@
         "keyword.other.unit",
         "keyword.operator.access.dot",
         "keyword.operator.key-value",
-        "keyword.operator.accessor.js"
+        "keyword.operator.accessor.js",
+        "support.class.component",
+        "punctuation.other.period"
       ],
       "settings": {
         "foreground": "#418EDD",
@@ -268,11 +275,7 @@
     },
     {
       "name": "Blue Italic",
-      "scope": [
-        "support.class.math",
-        "constant.character.math",
-        "support.class.component"
-      ],
+      "scope": ["support.class.math", "constant.character.math"],
       "settings": {
         "foreground": "#418EDD",
         "fontStyle": "italic"
@@ -300,7 +303,9 @@
         "meta.return-type",
         "support.type.primitive",
         "entity.name.type",
-        "variable.argument.css"
+        "variable.argument.css",
+        "meta.fstring.python",
+        "constant.character.format.placeholder.other.python"
       ],
       "settings": {
         "foreground": "#ff9900",

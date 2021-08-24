@@ -167,7 +167,10 @@
     "textBlockQuote.border": "#418EDD",
     "debugIcon.breakpointForeground": "#e92741",
     "editor.snippetFinalTabstopHighlightBorder": "#e92741",
-    "statusBarItem.errorBackground": "#e92741"
+    "statusBarItem.errorBackground": "#e92741",
+    "listFilterWidget.noMatchesOutline": "#e92741",
+    "diffEditor.insertedTextBackground": "#3EC84130",
+    "diffEditor.removedTextBackground": "#e9274130"
   },
   "tokenColors": [
     {
@@ -196,7 +199,9 @@
         "punctuation.section.function",
         "punctuation.separator.list.comma",
         "keyword.operator.namespace.rust",
-        "keyword.operator.access.dot"
+        "punctuation.brackets",
+        "punctuation.comma",
+        "fenced_code.block.language"
       ],
       "settings": {
         "foreground": "#fdf7cd",
@@ -251,7 +256,10 @@
         "punctuation.math.end.bracket.curly",
         "punctuation.math.operator.latex",
         "constant.numeric.css",
-        "keyword.other.unit"
+        "keyword.other.unit",
+        "keyword.operator.access.dot",
+        "keyword.operator.key-value",
+        "keyword.operator.accessor.js"
       ],
       "settings": {
         "foreground": "#418EDD",
@@ -303,8 +311,8 @@
       "name": "Gray",
       "scope": [
         "comment",
-        "punctuation.definition.tag.begin",
-        "punctuation.definition.tag.end"
+        "punctuation.definition.tag",
+        "punctuation.definition.markdown"
       ],
       "settings": {
         "foreground": "#5a637e",
@@ -321,6 +329,7 @@
         "variable.parameter.function.latex",
         "entity.other.attribute-name.pseudo-element.css",
         "meta.separator",
+        "markup.italic.markdown",
         "support.constant.property-value.css"
       ],
       "settings": {

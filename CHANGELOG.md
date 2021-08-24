@@ -1,5 +1,9 @@
 # Change Log
 
+## 5.0.1
+
+- Fix module export for js
+
 ## 5.0.0
 
 - New lighter theme called blackbird dusk

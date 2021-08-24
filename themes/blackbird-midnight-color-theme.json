@@ -166,7 +166,8 @@
     "debugIcon.startForeground": "#3EC841",
     "textBlockQuote.border": "#418EDD",
     "debugIcon.breakpointForeground": "#e92741",
-    "editor.snippetFinalTabstopHighlightBorder": "#e92741"
+    "editor.snippetFinalTabstopHighlightBorder": "#e92741",
+    "statusBarItem.errorBackground": "#e92741"
   },
   "tokenColors": [
     {

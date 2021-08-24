@@ -166,7 +166,8 @@
     "debugIcon.startForeground": "#3EC841",
     "textBlockQuote.border": "#418EDD",
     "debugIcon.breakpointForeground": "#e92741",
-    "editor.snippetFinalTabstopHighlightBorder": "#e92741"
+    "editor.snippetFinalTabstopHighlightBorder": "#e92741",
+    "statusBarItem.errorBackground": "#e92741"
   },
   "tokenColors": [
     {
@@ -194,7 +195,10 @@
         "constant.other.caps",
         "punctuation.section.function",
         "punctuation.separator.list.comma",
-        "keyword.operator.namespace.rust"
+        "keyword.operator.namespace.rust",
+        "punctuation.brackets",
+        "punctuation.definition",
+        "punctuation.comma"
       ],
       "settings": {
         "foreground": "#fdf7cd",
@@ -278,7 +282,8 @@
         "meta.function-call.generic",
         "entity.other.attribute-name.pseudo-element.css",
         "constant.other.general.math.tex",
-        "entity.other.attribute-name.class"
+        "entity.other.attribute-name.class",
+        "meta.attribute.rust"
       ],
       "settings": {
         "foreground": "#3EC841",

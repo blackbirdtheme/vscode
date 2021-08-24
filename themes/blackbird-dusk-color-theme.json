@@ -202,7 +202,8 @@
         "punctuation.brackets",
         "punctuation.comma",
         "fenced_code.block.language",
-        "punctuation.definition.attribute.rust"
+        "punctuation.definition.attribute.rust",
+        "keyword.operator.accessor.js"
       ],
       "settings": {
         "foreground": "#fdf7cd",
@@ -264,7 +265,6 @@
         "keyword.other.unit",
         "keyword.operator.access.dot",
         "keyword.operator.key-value",
-        "keyword.operator.accessor.js",
         "support.class.component",
         "punctuation.other.period"
       ],
@@ -336,7 +336,8 @@
         "entity.other.attribute-name.pseudo-element.css",
         "meta.separator",
         "support.constant.property-value.css",
-        "markup.italic.markdown"
+        "markup.italic.markdown",
+        "support.type.object.module"
       ],
       "settings": {
         "foreground": "#00ecd8",

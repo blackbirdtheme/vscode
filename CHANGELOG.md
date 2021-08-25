@@ -1,5 +1,9 @@
 # Change Log
 
+## 5.0.2
+
+- String template fields are now orange for JavaScript and TypeScript.
+
 ## 5.0.1
 
 - Fix module export for js

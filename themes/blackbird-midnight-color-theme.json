@@ -301,6 +301,7 @@
       "name": "Orange",
       "scope": [
         "meta.template.expression",
+        "entity.quasi.element",
         "meta.return-type",
         "support.type.primitive",
         "entity.name.type",

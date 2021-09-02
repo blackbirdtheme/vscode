@@ -1,5 +1,9 @@
 # Change Log
 
+## 5.0.3
+
+- Drop background is brighter for dusk
+
 ## 5.0.2
 
 - String template fields are now orange for JavaScript and TypeScript.

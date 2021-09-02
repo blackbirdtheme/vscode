@@ -110,7 +110,7 @@
     "debugIcon.restartForeground": "#3EC841",
     "debugIcon.stopForeground": "#e92741",
     "list.dropBackground": "#0f0f11",
-    "editorGroup.dropBackground": "#0f0f11",
+    "editorGroup.dropBackground": "#646464",
     "tree.indentGuidesStroke": "#fdf7cd",
     "editor.snippetTabstopHighlightBackground": "#0f0f0f00",
     "editor.snippetTabstopHighlightBorder": "#0f0f0f00",

@@ -266,7 +266,8 @@
         "keyword.operator.access.dot",
         "keyword.operator.key-value",
         "support.class.component",
-        "punctuation.other.period"
+        "punctuation.other.period",
+        "punctuation.definition.list.begin.markdown"
       ],
       "settings": {
         "foreground": "#418EDD",

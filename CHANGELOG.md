@@ -1,5 +1,9 @@
 # Change Log
 
+## 5.0.4
+
+- Markdown list items are now blue
+
 ## 5.0.3
 
 - Drop background is brighter for dusk

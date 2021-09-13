@@ -1,5 +1,9 @@
 # Change Log
 
+## 5.0.5
+
+- Have more \ calls be green in latex
+
 ## 5.0.4
 
 - Markdown list items are now blue

@@ -203,7 +203,8 @@
         "punctuation.comma",
         "fenced_code.block.language",
         "punctuation.definition.attribute.rust",
-        "keyword.operator.accessor.js"
+        "keyword.operator.accessor.js",
+        "meta.text.normal.tex"
       ],
       "settings": {
         "foreground": "#fdf7cd",
@@ -267,7 +268,9 @@
         "keyword.operator.key-value",
         "support.class.component",
         "punctuation.other.period",
-        "punctuation.definition.list.begin.markdown"
+        "punctuation.definition.list.begin.markdown",
+        "punctuation.math.begin.bracket.round",
+        "punctuation.math.end.bracket.round"
       ],
       "settings": {
         "foreground": "#418EDD",
@@ -293,7 +296,8 @@
         "entity.other.attribute-name.class",
         "meta.attribute.rust",
         "keyword.control.label.latex",
-        "constant.character.math.tex"
+        "constant.character.math.tex",
+        "constant.other.math.tex"
       ],
       "settings": {
         "foreground": "#3EC841",

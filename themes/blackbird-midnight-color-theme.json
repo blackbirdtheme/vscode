@@ -268,7 +268,9 @@
         "keyword.operator.key-value",
         "support.class.component",
         "punctuation.other.period",
-        "punctuation.definition.list.begin.markdown"
+        "punctuation.definition.list.begin.markdown",
+        "punctuation.math.begin.bracket.round",
+        "punctuation.math.end.bracket.round"
       ],
       "settings": {
         "foreground": "#418EDD",
@@ -293,7 +295,8 @@
         "constant.other.general.math.tex",
         "entity.other.attribute-name.class",
         "keyword.control.label.latex",
-        "constant.character.math.tex"
+        "constant.character.math.tex",
+        "constant.other.math.tex"
       ],
       "settings": {
         "foreground": "#3EC841",

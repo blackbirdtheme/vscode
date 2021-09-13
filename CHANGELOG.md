@@ -1,5 +1,10 @@
 # Change Log
 
+## 5.0.6
+
+- Markdown bold is now teal bold
+- More LaTeX math environment improvements
+
 ## 5.0.5
 
 - Have more \ calls be green in latex

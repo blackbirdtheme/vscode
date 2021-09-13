@@ -355,6 +355,14 @@
         "foreground": "#00ecd8",
         "fontStyle": ""
       }
+    },
+    {
+      "name": "Teal Bold",
+      "scope": ["markup.bold.markdown"],
+      "settings": {
+        "foreground": "#00ecd8",
+        "fontStyle": "bold"
+      }
     }
   ]
 }

@@ -291,7 +291,9 @@
         "entity.other.attribute-name.pseudo-element.css",
         "constant.other.general.math.tex",
         "entity.other.attribute-name.class",
-        "meta.attribute.rust"
+        "meta.attribute.rust",
+        "keyword.control.label.latex",
+        "constant.character.math.tex"
       ],
       "settings": {
         "foreground": "#3EC841",

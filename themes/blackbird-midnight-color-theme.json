@@ -291,7 +291,9 @@
         "meta.function-call.generic",
         "entity.other.attribute-name.pseudo-element.css",
         "constant.other.general.math.tex",
-        "entity.other.attribute-name.class"
+        "entity.other.attribute-name.class",
+        "keyword.control.label.latex",
+        "constant.character.math.tex"
       ],
       "settings": {
         "foreground": "#3EC841",

@@ -1,5 +1,11 @@
 # Change Log
 
+## 6.0.0
+
+- New jungle variant
+- Improved ts/js language features
+- Selection is easier to see in dusk/new jungle variant
+
 ## 5.0.6
 
 - Markdown bold is now teal bold

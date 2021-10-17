@@ -270,7 +270,8 @@
         "punctuation.other.period",
         "punctuation.definition.list.begin.markdown",
         "punctuation.math.begin.bracket.round",
-        "punctuation.math.end.bracket.round"
+        "punctuation.math.end.bracket.round",
+        "punctuation.accessor"
       ],
       "settings": {
         "foreground": "#418EDD",
@@ -314,7 +315,8 @@
         "entity.name.type",
         "variable.argument.css",
         "meta.fstring.python",
-        "constant.character.format.placeholder.other.python"
+        "constant.character.format.placeholder.other.python",
+        "support.class"
       ],
       "settings": {
         "foreground": "#ff9900",
@@ -345,7 +347,8 @@
         "meta.separator",
         "support.constant.property-value.css",
         "markup.italic.markdown",
-        "support.type.object.module"
+        "support.type.object.module",
+        "support.type.primitive"
       ],
       "settings": {
         "foreground": "#00ecd8",

@@ -43,6 +43,11 @@
         "label": "🏴 blackbird → dusk",
         "uiTheme": "vs-dark",
         "path": "themes/blackbird-dusk-color-theme.json"
+      },
+      {
+        "label": "🏴 blackbird → jungle",
+        "uiTheme": "vs-dark",
+        "path": "themes/blackbird-jungle-color-theme.json"
       }
     ]
   }

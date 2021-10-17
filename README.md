@@ -9,11 +9,15 @@ A sharp color theme for visual studio code
 
 ## 🌌 blackbird midnight
 
-![dusk example](./images/example-dusk.png)
+![midnight example](./images/example-midnight.png)
 
 ## 🌇 blackbird dusk
 
-![midnight example](./images/example-midnight.png)
+![dusk example](./images/example-dusk.png)
+
+## 🍃 blackbird jungle
+
+![jungle example](./images/example-jungle.png)
 
 ## 🚀 Install
 

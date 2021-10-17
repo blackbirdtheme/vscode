@@ -92,7 +92,7 @@
     "editorSuggestWidget.selectedBackground": "#0f0f11",
     "titleBar.inactiveForeground": "#fdf7cd",
     "list.hoverBackground": "#0f0f11",
-    "list.activeSelectionBackground": "#0f0f11",
+    "list.activeSelectionBackground": "#222029",
     "list.inactiveSelectionBackground": "#0f0f0f",
     "list.inactiveFocusOutline": "#646464",
     "settings.modifiedItemIndicator": "#e92741",

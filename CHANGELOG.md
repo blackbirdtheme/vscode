@@ -1,9 +1,11 @@
 # Change Log
 
+- Bring TS/JS language features to midnight
+
 ## 6.0.0
 
 - New jungle variant
-- Improved ts/js language features
+- Improved TS/JS language features
 - Selection is easier to see in dusk/new jungle variant
 
 ## 5.0.6
